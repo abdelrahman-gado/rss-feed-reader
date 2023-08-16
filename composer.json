@@ -1,0 +1,17 @@
+{
+    "name": "abdogado/rss-feed-reader",
+    "autoload": {
+        "psr-4": {
+            "RssFeedReader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdelrahman-gado",
+            "email": "abdelrahman.magdy.gado@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "5.3.1"
+    }
+}
